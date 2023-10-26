@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://example.com/ecomshaper-logo.png](https://ecomshaper.com/images/ecomShaper-light.svg)" alt="EcomShaper Logo" width="200" />
+  <img src="https://ecomshaper.com/images/ecomShaper-light.svg" alt="EcomShaper Logo" width="200" />
 
   # EcomShaper
 
