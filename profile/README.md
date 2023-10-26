@@ -14,10 +14,12 @@
 ## 🚀 Our Projects
 
 Explore our open-source projects below:
-
+<!--
 1. [![Project Name 1](https://example.com/project1-icon.png)](link-to-repo-1) Project Name 1 - Description of the project.
 2. [![Project Name 2](https://example.com/project2-icon.png)](link-to-repo-2) Project Name 2 - Description of the project.
 3. [![Project Name 3](https://example.com/project3-icon.png)](link-to-repo-3) Project Name 3 - Description of the project.
+-->
+###All Private
 
 ## 💡 How to Contribute
 
